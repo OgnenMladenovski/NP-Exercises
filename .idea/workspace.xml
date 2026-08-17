@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 1.4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/AuditoryExercises/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AccountType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AlienMarshmallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AlienOgre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AlienPack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AlienSnake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/AlienTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/BankTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/InterestBearingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/InterestCheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/NonInterestCheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/PlatinumCheckingAccount.class" beforeDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 1.2">
+      <change afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/LaboratoryExercises/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/AlienTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/AlienTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/BankTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +41,6 @@
     &quot;Application.BankTest (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -68,13 +55,25 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorTest">
+  <component name="RunManager" selected="Application.AlienTest">
     <configuration name="AlienTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.AlienTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.Bank" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.CalculatorTest" />
-      <module name="NP-Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.AlienTest" />
         <item itemvalue="Application.BankTest (2)" />
         <item itemvalue="Application.BankTest (1)" />
         <item itemvalue="Application.BankTest" />
+        <item itemvalue="Application.Bank (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1786965621726</updated>
-      <workItem from="1786965622772" duration="18199000" />
+      <workItem from="1786965622772" duration="10209000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Day 1.1">
       <option name="closed" value="true" />
@@ -194,39 +180,7 @@
       <option name="project" value="LOCAL" />
       <updated>1786975777670</updated>
     </task>
-    <task id="LOCAL-00003" summary="Commit Day 1.3">
-      <option name="closed" value="true" />
-      <created>1786975898462</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1786975898462</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Commit Day 1.3">
-      <option name="closed" value="true" />
-      <created>1786976099957</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1786976099957</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Commit Day 1.4">
-      <option name="closed" value="true" />
-      <created>1786977475416</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1786977475416</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Commit Day 1.4">
-      <option name="closed" value="true" />
-      <created>1786977488551</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1786977488551</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,8 +189,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Day 1.1" />
     <MESSAGE value="Commit Day 1.2" />
-    <MESSAGE value="Commit Day 1.3" />
-    <MESSAGE value="Commit Day 1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 1.2" />
   </component>
 </project>
