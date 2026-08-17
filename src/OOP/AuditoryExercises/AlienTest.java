@@ -1,4 +1,4 @@
-package OOP;
+package OOP.AuditoryExercises;
 
 class Alien {
     public int alienHealth;

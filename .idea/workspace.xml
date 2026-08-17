@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 1.1">
-      <change afterPath="$PROJECT_DIR$/src/OOP/AlienTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/BankTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 1.2">
+      <change afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/LaboratoryExercises/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/AlienTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/AlienTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AuditoryExercises/BankTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +60,11 @@
 }</component>
   <component name="RunManager" selected="Application.AlienTest">
     <configuration name="AlienTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AlienTest" />
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.AlienTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bank (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Bank" />
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.Bank" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,24 @@
       </method>
     </configuration>
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1786965621726</updated>
-      <workItem from="1786965622772" duration="9882000" />
+      <workItem from="1786965622772" duration="10209000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Day 1.1">
       <option name="closed" value="true" />
@@ -158,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786972707390</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Day 1.2">
+      <option name="closed" value="true" />
+      <created>1786975777670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786975777670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Day 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 1.1" />
+    <MESSAGE value="Commit Day 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 1.2" />
   </component>
 </project>
