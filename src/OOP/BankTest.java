@@ -96,7 +96,7 @@ class NonInterestCheckingAccount extends Account {
     }
 }
 
-public class Bank {
+class Bank {
 
     private List<Account> accounts;
 
@@ -122,5 +122,26 @@ public class Bank {
                 ((InterestBearingAccount) a).addInterest();
             }
         }
+    }
+}
+
+public class BankTest {
+
+    public static void main(String[] args) {
+
+        Account a1 = new InterestCheckingAccount("John", 1000);
+        Account a2 = new PlatinumCheckingAccount("Peter", 2000);
+        Account a3 = new NonInterestCheckingAccount("Mark", 500);
+
+        Bank bank = new Bank(List.of(a1, a2, a3));
+
+        System.out.println(bank.totalAssets());
+
+        bank.addInterest();
+
+        System.out.println(a1.getAccountBalance());
+        System.out.println(a2.getAccountBalance());
+        System.out.println(a3.getAccountBalance());
+
     }
 }

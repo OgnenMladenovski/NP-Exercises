@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bank.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 1.1">
+      <change afterPath="$PROJECT_DIR$/src/OOP/AlienTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/BankTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AlienTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bank (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -44,9 +51,88 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ognenmladenovski/Desktop/NP-Exercises/src/main/java/org/mk/ukim/finki/nvd/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.AlienTest">
+    <configuration name="AlienTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AlienTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Bank" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlienTest" />
+        <item itemvalue="Application.BankTest (2)" />
+        <item itemvalue="Application.BankTest (1)" />
+        <item itemvalue="Application.BankTest" />
+        <item itemvalue="Application.Bank (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,11 +148,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1786965621726</updated>
-      <workItem from="1786965622772" duration="6985000" />
+      <workItem from="1786965622772" duration="9882000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Day 1.1">
+      <option name="closed" value="true" />
+      <created>1786972707390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786972707390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Day 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 1.1" />
   </component>
 </project>
