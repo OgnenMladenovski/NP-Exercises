@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 2.2">
-      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/CalculatorTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/CourseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/FunctionalInterfacesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/LaboratoryExercises/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/LaboratoryExercises/HospitalDemo.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 2.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/LaboratoryExercises/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/LaboratoryExercises/HospitalDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,7 @@
     &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculatorTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CourseDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.FunctionalInterfacesDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo (2).executor&quot;: &quot;Run&quot;,
@@ -219,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787060083658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Day 2.3">
+      <option name="closed" value="true" />
+      <created>1787089550917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787089550917</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +234,7 @@
     <MESSAGE value="Commit Day 1.2" />
     <MESSAGE value="Commit Day 2.1" />
     <MESSAGE value="Commit Day 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 2.2" />
+    <MESSAGE value="Commit Day 2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 2.3" />
   </component>
 </project>
