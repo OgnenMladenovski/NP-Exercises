@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 2.1">
-      <change afterPath="$PROJECT_DIR$/src/OOP/LaboratoryExercises/CirclesTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 2.2">
+      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/CalculatorTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/CourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/FunctionalInterfacesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/AuditoryExercises/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/LaboratoryExercises/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/LaboratoryExercises/HospitalDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,11 @@
     &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterfacesDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceDemo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceDemo (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceDemo.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -54,49 +64,11 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.stickyLines&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BankTester">
-    <configuration name="AlienTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.AlienTest" />
-      <module name="NP-Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.Bank" />
-      <module name="NP-Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.BankTest" />
-      <module name="NP-Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CourseDemo">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
@@ -123,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
+    <configuration name="CalculatorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.CalculatorTest2" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.AuditoryExercises.*" />
+          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +108,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.LaboratoryExercises.BankTester" />
+    <configuration name="CourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.CourseDemo" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.LaboratoryExercises.*" />
+          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfacesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.FunctionalInterfacesDemo" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.InterfaceDemo" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.InterfaceDemo" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,10 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankTester" />
-        <item itemvalue="Application.AlienTest" />
-        <item itemvalue="Application.BankTest (1)" />
-        <item itemvalue="Application.BankTest" />
+        <item itemvalue="Application.CourseDemo" />
+        <item itemvalue="Application.FunctionalInterfacesDemo" />
+        <item itemvalue="Application.CalculatorTest2" />
+        <item itemvalue="Application.InterfaceDemo (2)" />
+        <item itemvalue="Application.InterfaceDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787050153367</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Day 2.2">
+      <option name="closed" value="true" />
+      <created>1787060083658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787060083658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +229,7 @@
     <MESSAGE value="Commit Day 1.1" />
     <MESSAGE value="Commit Day 1.2" />
     <MESSAGE value="Commit Day 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 2.1" />
+    <MESSAGE value="Commit Day 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 2.2" />
   </component>
 </project>
