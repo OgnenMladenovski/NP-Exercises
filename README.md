@@ -5,4 +5,12 @@
 
 3. <b>Generics</b> - Auditory, Laboratory & Exam Exercises
 
-4. <b></b>
+4. <b>Collections & Comparator</b> - Auditory & Laboratory Exercises
+
+5. <b>Maps</b> - Auditory & Laboratory Exercises
+
+6. <b>Streams</b> - Auditory & Laboratory Exercises
+
+7. <b>Design Patterns</b> - Auditory & Laboratory Exercises
+
+8. <b>Exam Exercises</b>
