@@ -3,6 +3,6 @@
 
 2. <b>Lambda</b> - Auditory & Laboratory Exercises
 
-3. <b>Generics</b> - Auditory & Laboratory Exercises
+3. <b>Generics</b> - Auditory, Laboratory & Exam Exercises
 
 4. <b></b>

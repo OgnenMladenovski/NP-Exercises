@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit README.md conflict fix">
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit README.md bold">
+      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/ExecuteAndSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/MyMathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -40,12 +44,15 @@
     &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Box.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculatorTest2.executor&quot;: &quot;Run&quot;,
     &quot;Application.CourseDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.FunctionalInterfacesDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyMathClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQueue.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -65,7 +72,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CourseDemo">
+  <component name="RunManager" selected="Application.ExecuteAndSortTest">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
@@ -92,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.CalculatorTest2" />
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.Box" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterfacesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.FunctionalInterfacesDemo" />
+    <configuration name="ExecuteAndSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.ExecuteAndSortTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.InterfaceDemo" />
+    <configuration name="MyMathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.MyMathClass" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.InterfaceDemo" />
+    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.PriorityQueue" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExecuteAndSortTest" />
+        <item itemvalue="Application.MyMathClass" />
+        <item itemvalue="Application.PriorityQueue" />
+        <item itemvalue="Application.Box" />
         <item itemvalue="Application.CourseDemo" />
-        <item itemvalue="Application.FunctionalInterfacesDemo" />
-        <item itemvalue="Application.CalculatorTest2" />
-        <item itemvalue="Application.InterfaceDemo (2)" />
-        <item itemvalue="Application.InterfaceDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787094529896</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit README.md bold">
+      <option name="closed" value="true" />
+      <created>1787127881950</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1787127881950</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +287,7 @@
     <MESSAGE value="Commit README.md changes" />
     <MESSAGE value="Commit README.md more changes" />
     <MESSAGE value="Commit README.md conflict fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit README.md conflict fix" />
+    <MESSAGE value="Commit README.md bold" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit README.md bold" />
   </component>
 </project>
