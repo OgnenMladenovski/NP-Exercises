@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit README.md bold">
-      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/ExecuteAndSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/MyMathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/PriorityQueue.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.1">
+      <change afterPath="$PROJECT_DIR$/src/Generics/LaboratoryExercises/ResizableArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/AuditoryExercises/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/ExecuteAndSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/AuditoryExercises/ExecuteAndSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/MyMathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/AuditoryExercises/MyMathClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/AuditoryExcercises/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/AuditoryExercises/PriorityQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,43 +35,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AlienTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Box.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CourseDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionalInterfacesDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfaceDemo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfaceDemo (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfaceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyMathClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQueue.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ognenmladenovski/Desktop/NP-Exercises/src/main/java/org/mk/ukim/finki/nvd/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.stickyLines&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlienTest.executor": "Run",
+    "Application.Bank (1).executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.BankTest (1).executor": "Run",
+    "Application.BankTest (2).executor": "Run",
+    "Application.BankTest.executor": "Run",
+    "Application.BankTester.executor": "Run",
+    "Application.Box.executor": "Run",
+    "Application.CalculatorTest2.executor": "Run",
+    "Application.CourseDemo.executor": "Run",
+    "Application.ExecuteAndSortTest.executor": "Run",
+    "Application.FunctionalInterfacesDemo.executor": "Run",
+    "Application.InterfaceDemo (1).executor": "Run",
+    "Application.InterfaceDemo (2).executor": "Run",
+    "Application.InterfaceDemo.executor": "Run",
+    "Application.MyMathClass.executor": "Run",
+    "Application.PriorityQueue.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/ognenmladenovski/Desktop/NP-Exercises/src/main/java/org/mk/ukim/finki/nvd/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.stickyLines",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ExecuteAndSortTest">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
@@ -100,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.Box" />
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.Box" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="ExecuteAndSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.ExecuteAndSortTest" />
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.ExecuteAndSortTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="MyMathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.MyMathClass" />
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.MyMathClass" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +153,11 @@
       </method>
     </configuration>
     <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExcercises.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.PriorityQueue" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExcercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787127881950</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit Day 3.1">
+      <option name="closed" value="true" />
+      <created>1787136553260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1787136553260</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +297,7 @@
     <MESSAGE value="Commit README.md more changes" />
     <MESSAGE value="Commit README.md conflict fix" />
     <MESSAGE value="Commit README.md bold" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit README.md bold" />
+    <MESSAGE value="Commit Day 3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.1" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package Generics.AuditoryExcercises;
+package Generics.AuditoryExercises;
 
 import java.util.*;
 import java.util.function.Function;
