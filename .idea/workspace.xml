@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.2">
-      <change afterPath="$PROJECT_DIR$/src/Generics/LaboratoryExercises/SchedulerTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.3">
+      <change afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/GenericFractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/TripleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Test111.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,7 @@
     &quot;Application.InterfaceDemo (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinAndMax.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyMathClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueue.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -69,7 +73,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExecuteAndSortTest">
+  <component name="RunManager" selected="Application.MinAndMax">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.AuditoryExercises.CourseDemo" />
+    <configuration name="ExecuteAndSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.ExecuteAndSortTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecuteAndSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.ExecuteAndSortTest" />
+    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.ExamExercies.MinAndMax" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
+          <option name="PATTERN" value="Generics.ExamExercies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.ExecuteAndSortTest" />
         <item itemvalue="Application.MyMathClass" />
         <item itemvalue="Application.PriorityQueue" />
         <item itemvalue="Application.Box" />
-        <item itemvalue="Application.CourseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787143786370</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit Day 3.3">
+      <option name="closed" value="true" />
+      <created>1787147019592</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1787147019592</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +315,7 @@
     <MESSAGE value="Commit README.md bold" />
     <MESSAGE value="Commit Day 3.1" />
     <MESSAGE value="Commit Day 3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.2" />
+    <MESSAGE value="Commit Day 3.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.3" />
   </component>
 </project>
