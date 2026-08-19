@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.4">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit README.md update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Generics/ExamExercies/GenericFractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/GenericFractionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -301,11 +301,40 @@
       <option name="project" value="LOCAL" />
       <updated>1787152812185</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit README.md update">
+      <option name="closed" value="true" />
+      <created>1787153239084</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1787153239084</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6860b247-6d3d-4f82-997e-345b6c7a842a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6860b247-6d3d-4f82-997e-345b6c7a842a">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Day 1.1" />
@@ -322,6 +351,7 @@
     <MESSAGE value="Commit Day 3.2" />
     <MESSAGE value="Commit Day 3.3" />
     <MESSAGE value="Commit Day 3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.4" />
+    <MESSAGE value="Commit README.md update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit README.md update" />
   </component>
 </project>
