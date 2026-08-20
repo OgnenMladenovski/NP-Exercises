@@ -1,9 +1,6 @@
 //Zadacha 10/51
 package Generics.ExamExercies;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 import java.util.Scanner;
 
 class Triple<T extends Number & Comparable<T>> {
