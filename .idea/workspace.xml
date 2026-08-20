@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.5">
-      <change afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/EvaluatorTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.6">
+      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/BooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/F1Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/ExamExercies/TripleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/ExamExercies/TripleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +43,10 @@
     &quot;Application.BankTest (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooksTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Box.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculatorTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.CourseDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExecuteAndSortTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.FunctionalInterfacesDemo.executor&quot;: &quot;Run&quot;,
@@ -71,7 +75,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinAndMax">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
@@ -98,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.Box" />
+    <configuration name="BooksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.AuditoryExercises.BooksTest" />
       <module name="NP-Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
+          <option name="PATTERN" value="Collections.AuditoryExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.AuditoryExercises.CarTest" />
+      <module name="NP-Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.AuditoryExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,26 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.AuditoryExercises.PriorityQueue" />
-      <module name="NP-Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.AuditoryExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.BooksTest" />
         <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.ExecuteAndSortTest" />
         <item itemvalue="Application.MyMathClass" />
-        <item itemvalue="Application.PriorityQueue" />
-        <item itemvalue="Application.Box" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787183739442</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit Day 3.6">
+      <option name="closed" value="true" />
+      <created>1787187582583</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1787187582583</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +374,7 @@
     <MESSAGE value="Commit Day 3.4" />
     <MESSAGE value="Commit README.md update" />
     <MESSAGE value="Commit Day 3.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.5" />
+    <MESSAGE value="Commit Day 3.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.6" />
   </component>
 </project>

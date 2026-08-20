@@ -5,7 +5,7 @@
 
 3. <b>Generics</b> - Auditory, Laboratory & Exam Exercises
 
-4. <b>Collections & Comparator</b> - Auditory & Laboratory Exercises
+4. <b>Collections & Comparator</b> - Auditory, Laboratory & Exam Exercises
 
 5. <b>Maps</b> - Auditory & Laboratory Exercises
 
