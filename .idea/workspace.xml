@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 3.6">
-      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/BooksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/CarTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 4.1">
       <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/F1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/MovieTheaterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/SetsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787187582583</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit Day 4.1">
+      <option name="closed" value="true" />
+      <created>1787230111230</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1787230111230</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,6 +383,7 @@
     <MESSAGE value="Commit README.md update" />
     <MESSAGE value="Commit Day 3.5" />
     <MESSAGE value="Commit Day 3.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 3.6" />
+    <MESSAGE value="Commit Day 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 4.1" />
   </component>
 </project>
