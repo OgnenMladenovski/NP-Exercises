@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 4.1">
-      <change afterPath="$PROJECT_DIR$/src/Collections/AuditoryExercises/F1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/MovieTheaterTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LaboratoryExercises/SetsTest.java" afterDir="false" />
+    <list default="true" id="d0a33f5d-9cb5-436b-a421-b89e3e663a8e" name="Changes" comment="Commit Day 4.2">
+      <change afterPath="$PROJECT_DIR$/src/Collections/ExamExercises/ApplicantEvaluationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ExamExercises/ArchiveStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ExamExercises/ArchiveStoreTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ExamExercises/TimesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ExamExercises/Shapes1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ExamExercises/Shapes2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ExamExercises/ShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/LaboratoryExercises/UniversityTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Test111.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +42,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AlienTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArchiveStoreTest.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Bank (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
     &quot;Application.BankTest (1).executor&quot;: &quot;Run&quot;,
@@ -56,6 +62,7 @@
     &quot;Application.MinAndMax.executor&quot;: &quot;Run&quot;,
     &quot;Application.MyMathClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shapes1Test.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -75,7 +82,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager">
     <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.AuditoryExercises.BankTest" />
       <module name="NP-Exercises" />
@@ -338,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787230111230</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit Day 4.2">
+      <option name="closed" value="true" />
+      <created>1787273983074</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1787273983074</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,6 +399,7 @@
     <MESSAGE value="Commit Day 3.5" />
     <MESSAGE value="Commit Day 3.6" />
     <MESSAGE value="Commit Day 4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 4.1" />
+    <MESSAGE value="Commit Day 4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 4.2" />
   </component>
 </project>
